@@ -4,6 +4,8 @@ from pytube import YouTube
 import os
 import PySimpleGUI as sg
 
+###Code to download video is sourced from Geeks for Geeks, available here: https://www.geeksforgeeks.org/download-video-in-mp3-format-using-pytube/
+
 
 # Define the window's contents
 layout = [[sg.Text("Paste YouTube Video url to download:")],
