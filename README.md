@@ -8,4 +8,6 @@ Using my previous project(Art Prompt Generator) as a framework, and this code fr
 
 There are two versions of this code. The first downloads in MP3 only. The second, which should be included shortly, allows for MP3 and WAV form audio. I hope you enjoy!
 
+EDIT 12/12/2022 - currently in the process of working on one version where you can choose what directory you want to download in, as well as the choice to download in MP3 and WAV. I've added the visual elements for these things, but they aren't functional yet.
+
 
