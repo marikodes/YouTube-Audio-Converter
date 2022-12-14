@@ -10,4 +10,6 @@ There are two versions of this code. The first downloads in MP3 only. The second
 
 EDIT 12/12/2022 - currently in the process of working on one version where you can choose what directory you want to download in, as well as the choice to download in MP3 and WAV. I've added the visual elements for these things, but they aren't functional yet.
 
+EDIT 12/13/2022 - okay so I added the different download options and that is working, but I am still dealing with the file exists error (happens if you try to download the same video twice) it is completely skipping over the conditional statement checking that the file exists, so it only downloads in mp4 audio for the time being
+
 
