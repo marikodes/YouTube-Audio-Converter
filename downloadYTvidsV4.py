@@ -31,8 +31,8 @@ while True:
         yt = YouTube(
 	str(values['-INPUT-']))
         video = yt.streams.filter(only_audio=True).first()
-        debug_directory = values['-USER FOLDER-']
-        print(debug_directory)  #its still going to downloads by default, I want users to be able to decide where the file is downloading
+        #debug_directory = values['-USER FOLDER-']
+        #print(debug_directory)  #its still going to downloads by default, I want users to be able to decide where the file is downloading
         destination = str(values['-USER FOLDER-'])#this might fix the problem -- it did yay!
         #path = destination + yt.title
         # if os.path.isfile(path) == True:
@@ -41,8 +41,8 @@ while True:
         #     out_file = video.download(output_path=destination)
         out_file = video.download(output_path=destination)
         base, ext = os.path.splitext(out_file)
-        debug_path = os.path.abspath(out_file)
-        print(debug_path)
+        #debug_path = os.path.abspath(out_file)
+        #print(debug_path)
         if values['-DROPDOWN-'] == "MP3": #this conditional statement is working
             new_file = base + '.mp3'
         elif values['-DROPDOWN-'] == "WAV":#this conditional statement is working
