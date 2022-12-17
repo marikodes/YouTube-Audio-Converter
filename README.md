@@ -8,6 +8,10 @@ Using my previous project (Art Prompt Generator) as a framework, and this code f
 
 V4 is the best version of the program included in this repository, with V1 only allowing MP3 downloads and V2 and V3 having some unresolved problems (uploaded to keep track of my progress and as a method of version control). I hope you enjoy!
 
+Note that you should have PyTube and PySimpleGUI installed on your machine for this program to work.
+
+![image](https://user-images.githubusercontent.com/112410215/208218012-ac99ddfd-e1de-49c8-9ead-d6bf2fa3e35e.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/112410215/208217924-211fa2a5-183a-4a78-aeed-0bf5bec35b7c.png)
