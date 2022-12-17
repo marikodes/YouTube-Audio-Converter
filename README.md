@@ -2,14 +2,12 @@
 Don't use that sketchy website to download YT video audio anymore! Use python instead!
 
 
-I like to make short animations, and so I often download YouTube videos for their audio. However, my current method of downloading videos is quite long. First I download the video using RealDownloader(I've been using it for nearly 10 years, and since I'm using the free version, it's gotten very slow). Then I convert the video into MP3 or WAV form. I have been learning how powerful Python can be, and looked up something to download things using Python.
+I like to make short animations, and so I often download YouTube videos for their audio. However, my current method of downloading videos is quite long. First I download the video using RealDownloader (I've been using it for nearly 10 years, and since I'm using the free version, it's gotten very slow). Then I convert the video into MP3 or WAV format. I have been learning how powerful Python can be, and looked up something to download things using Python.
 
-Using my previous project(Art Prompt Generator) as a framework, and this code from Geeks for Geeks (https://www.geeksforgeeks.org/download-video-in-mp3-format-using-pytube/), I was able to make a small program to download videos without using a sketchy site or my quite slow process described above.
+Using my previous project (Art Prompt Generator) as a framework, and this code from Geeks for Geeks (https://www.geeksforgeeks.org/download-video-in-mp3-format-using-pytube/), I was able to make a small program to download videos without using a sketchy site or my quite slow process described above. It allows you to download a YouTube video's audio in MP3 or WAV format.
 
-There are two versions of this code. The first downloads in MP3 only. The second, which should be included shortly, allows for MP3 and WAV form audio. I hope you enjoy!
+V4 is the best version of the program included in this repository, with V1 only allowing MP3 downloads and V2 and V3 having some unresolved problems (uploaded to keep track of my progress and as a method of version control). I hope you enjoy!
 
-EDIT 12/12/2022 - currently in the process of working on one version where you can choose what directory you want to download in, as well as the choice to download in MP3 and WAV. I've added the visual elements for these things, but they aren't functional yet.
 
-EDIT 12/13/2022 - okay so I added the different download options and that is working, but I am still dealing with the file exists error (happens if you try to download the same video twice) it is completely skipping over the conditional statement checking that the file exists, so it only downloads in mp4 audio for the time being
 
 
