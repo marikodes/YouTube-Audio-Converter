@@ -10,4 +10,8 @@ V4 is the best version of the program included in this repository, with V1 only 
 
 
 
+![image](https://user-images.githubusercontent.com/112410215/208217536-3411fc72-c72a-4b94-8212-49fbf26eab18.png)
+
+
+![image](https://user-images.githubusercontent.com/112410215/208217556-bc8f9fd0-675e-40ed-9368-d3d573726002.png)
 
