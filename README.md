@@ -17,6 +17,12 @@ Note that you should have PyTube and PySimpleGUI installed on your machine for t
 ![image](https://user-images.githubusercontent.com/112410215/208217924-211fa2a5-183a-4a78-aeed-0bf5bec35b7c.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/112410215/208217737-b9e59b2a-9ca9-4e63-bb79-2a13c532dbdb.png)
 
 
+# Running the program from the Terminal/Command Line
+After navigating to the directory where the file is, you can enter the following command
+
+Windows: py downloadYTvidsV4.py
+Mac: python3 downloadYTvidsV4.py
